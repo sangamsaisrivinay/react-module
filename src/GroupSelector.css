@@ -1,0 +1,14 @@
+.group-selector {
+    margin-bottom: 10px;
+  }
+  
+  .group-selector-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .group-selector-select {
+    width: 100%;
+    padding: 5px;
+  }
+  

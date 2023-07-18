@@ -1,0 +1,14 @@
+.note-app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .note-app-title {
+    text-align: center;
+  }
+  
+  .note-app-content {
+    margin-top: 20px;
+  }
+  
